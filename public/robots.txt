@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://websitedowndetector.doodax.com/sitemap.xml

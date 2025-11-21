@@ -1,0 +1,5 @@
+{
+  "name": "Website Down Detector",
+  "description": "A modern tool to check if a website is down or not. It provides real-time status checks from simulated global locations, detailed HTTP status codes, and response times, all wrapped in a sleek, diagnostic-themed interface with an animated galaxy background.",
+  "requestFramePermissions": []
+}
