@@ -10,7 +10,7 @@
 
 ---
 
-### [🚀 LIVE DEMO](https://websitedowndetector.doodax.com) 
+### [🚀 LIVE DEMO](https://doodax.com/tools/website-status-checks/index.html) 
 *(Opens in a new tab)*
 
 ---
